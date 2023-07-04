@@ -258,6 +258,14 @@ header .search-bar-container label:hover {
 
 .home .content{
   text-align: center;
+  background: rgba(0, 0, 0, .7) ;
+  padding: 2rem;
+  border-radius: .5rem;
+
+}
+
+.home .content p{
+  line-height: 4rem;
 }
 
 .home .content h3{
@@ -280,6 +288,7 @@ header .search-bar-container label:hover {
   height: 100%;
   width: 100%;
   object-fit: cover;
+  opacity: 1;
 }
 
 .book .row{
